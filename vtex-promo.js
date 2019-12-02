@@ -1,6 +1,6 @@
 ( function () {
 
-    function insertPromo(prod = "", cole = "") {
+    function insertPromo(prod = "", cole = "", cupom = "") {
         
         // Chama a função para pegar a quantidade de produtos no carrinho 
         qtdProducts = getQtd();   
