@@ -8,7 +8,7 @@ O módulo permite a manipulação de promoções de maneria dinâmica através d
 ### Instalação
 
 1. Copie o conteúdo do arquivo vtex-promo.js para o custom5-checkout.js nos códigos do módulo de checkout
-2. Inicie o módulo de promoção com a função insertPromo(produto, colecao), passando os paramêtros de produto e/ou coleção que queira aplicar a promoção.
+2. Inicie o módulo de promoção com a função insertPromo(cupom, colecao), passando os paramêtros de produto e/ou coleção que queira aplicar a promoção.
 
 ### Exemplo de Uso
 
