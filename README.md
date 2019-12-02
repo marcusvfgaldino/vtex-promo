@@ -1,7 +1,9 @@
 Módulo para criar promoções dinâmicas VTEX 
 ==============
 
-Este módulo permite a criação de promoções de maneira dinâmica na loja VTEX através de produtos e coleções específicas, é possível criar e manipular promoções a partir de cupons criados na loja.
+Este módulo permite que se crie promoções que não são possíveis serem criadas utilizando apenas o módulo de promoções do painel da Vtex. 
+
+O módulo permite a manipulação de promoções de maneria dinâmica através de cupons de descontos criados na plataforma.
 
 ### Instalação
 
@@ -23,6 +25,8 @@ Este é um exemplo de uso, onde se aplica uma promoção de frete grátis caso a
 Caso o cliente tenha acesso ao código do cupom criado, o mesmo poderá aplicá-lo a qualquer momento, invalidando a promoção. Por isso, o cupom de promoção não deverá ser divulgado para clientes e visistantes da loja e deverá ser usado somente por este módulo.
 
 Como o código do cupom não poderá ser divulgado, este módulo quando ativado remove automaticamente o campo para aplicar os códigos de cupom. Sendo assim, não é recomendado o uso deste módulo com outras promoções de cumpom de desconto ativas.
+
+Certifique-se de seguir todos os passos de instalação e de uso, realizando os devidos testes antes de colocar o módulo em produção, para evitar problemas no checkout e o risco de parar as vendas de sua loja. 
 
 
 
