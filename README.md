@@ -12,8 +12,6 @@ O módulo permite a manipulação de promoções de maneria dinâmica através d
 
 ### Exemplo de Uso
 
-Este módulo permite que se crie promoções que não são possíveis serem criadas utilizando apenas o módulo de promoções do painel da Vtex.
-
 Este é um exemplo de uso, onde se aplica uma promoção de frete grátis caso algum produto de uma determinada coleção seja adicionado pelo cliente no carrinho junto com qualquer outro produto da loja:
 
 1. Crie uma promoção no módulo de promoções do painel da Vtex com um cupom que aplique frete grátis. Para saber como criar uma promoção, acesse: https://help.vtex.com/tutorial/como-criar-promocoes
